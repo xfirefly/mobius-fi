@@ -1,9 +1,9 @@
 # mobius-fi
 Heco chain address:
 
-MobiusToken  address: 0xa90cf2d7029899741B9183A61a5F13eC0AE92729
+MBU token address: 0xa90cf2d7029899741B9183A61a5F13eC0AE92729
 
-AlToken  address: 0x4aA02FF2bAB00579F5543A9f62fd86738a056EfC
+mUSD token address: 0x4aA02FF2bAB00579F5543A9f62fd86738a056EfC
 
 Transmuter  address: 0xdcb29279D7b22b0480393dba14DCaaD3005068bB
 
